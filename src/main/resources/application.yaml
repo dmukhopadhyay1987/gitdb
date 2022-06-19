@@ -1,0 +1,6 @@
+#  db:
+#    gitdb:
+#      connection:
+#        url: https://api.github.com/repos/<USER>/<REPO>
+#        auth:
+#          key: <TOKEN>
